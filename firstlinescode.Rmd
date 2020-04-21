@@ -26,3 +26,21 @@ area = pi * (diameter/2)^2
 area
 ```
 
+```{r}
+bloodtypes <- factor(c("A+", "B-", "O-", "A+", "O-"))
+sort((bloodtypes))
+```
+# Practicing with exercises
+# convert TRUE to an integer 
+
+```{r}
+TRUE 
+FALSE 
+as.integer(TRUE)
+class(Sys.time())
+class (Sys.timezone())
+
+' "Do you think this is a game?”, he said. “No, I think Jenga’s a game”, Archer responded.'
+```
+
+
