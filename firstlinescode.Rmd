@@ -36,7 +36,6 @@ sort((bloodtypes))
 ```{r}
 TRUE 
 FALSE 
-as.integer(TRUE)
 class(Sys.time())
 class (Sys.timezone())
 
